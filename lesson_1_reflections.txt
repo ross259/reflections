@@ -34,6 +34,8 @@ be modified that relate to one change.
 How can you use the commands git log and git diff to view the
 history of files?
 
+# test in middle
+
 View the log, copy the ID's of the files you wish to compare, 
 use git diff to compare the copies.
 
@@ -45,6 +47,3 @@ Now that you have your workspace set up, what do you want to try using Git for?
 
 I want to use git to version my code.
 
-What happens when you initialize a repository? Why do you need to do it?
-
-It creates an empty repository for you to commit code to. You need to do this to create the repository.
