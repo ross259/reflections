@@ -1,0 +1,50 @@
+How did viewing a diff between two versions of a
+file help you see the bug that was introduced?
+
+Because I could narrow my search to only lines that changed.
+
+How could having easy access to the entire history
+of a file make you a more efficient programmer in the long term?
+
+Less time looking for mistakes.
+
+What do you think are the pros and cons of manually choosing
+when to create a commit, like you do in Git, vs having versions
+automatically saved, like Google Docs does?
+
+Pro of manual:
+- Control over how often commits are made.
+
+Con of manual:
+- Must remember to commit.
+
+Pro of auto:
+- Frequent commits.
+
+Con of auto:
+- No comments on commits.
+
+Why do you think some version control systems, like Git, allow
+saving multiple files in one commit, while others, like Google
+Docs, treat each file separately?
+
+Git allows multiple files in one commit because many files may
+be modified that relate to one change.
+
+How can you use the commands git log and git diff to view the
+history of files?
+
+View the log, copy the ID's of the files you wish to compare, 
+use git diff to compare the copies.
+
+How might using version control make you more confident to make changes that could break something?
+
+You know you can always revert back to old code.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to use git to version my code.
+
+What happens when you initialize a repository? Why do you need to do it?
+
+It creates an empty repository for you to commit code to. You need to do this to create the repository.

@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It creates an empty repository for you to commit code to. You need to do this to create the repository.
