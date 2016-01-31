@@ -13,6 +13,17 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 Compare staging to latest commit by using git diff
 
-What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+What are some situations when branches would be helpful in keeping your
+history organized? How would branches help?
 
 If you want to do some experimental code.
+
+How do the diagrams help you visualize the branch structure?
+
+you can see how each branch relates to its parent.
+
+What is the result of merging two branches together? Why do we represent it
+in the diagram the way we do?
+
+Merging branches combines changes. we represent it on the digram that way because
+a branch is a separate history of changes.

@@ -34,8 +34,6 @@ be modified that relate to one change.
 How can you use the commands git log and git diff to view the
 history of files?
 
-# test in middle
-
 View the log, copy the ID's of the files you wish to compare, 
 use git diff to compare the copies.
 
